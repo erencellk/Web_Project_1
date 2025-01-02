@@ -1,2 +1,3 @@
 # Web_Project_1
-Shoe Sales Site wiht Js Html Css
+
+We created a shoe sales site using html css js
